@@ -1,0 +1,36 @@
+/* Styling for the body */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #e9f2f5;
+    color: #333;
+    margin: 0;
+    padding: 20px;
+}
+
+
+/* Styling for the headings */
+h1 {
+    color: #6e8cb6;
+    font-size: 28px;
+    text-align: center;
+}
+
+
+h2 {
+    color: #7FA1C3;
+    font-size: 22px;
+}
+
+
+/* Styling for the links */
+a {
+    color: #6482AD;
+    text-decoration: none;
+    font-weight: bold;
+    margin-right: 10px;
+}
+
+
+a:hover {
+    color: #7FA1C3;
+}
